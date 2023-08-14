@@ -8,7 +8,7 @@
 # 💫 About Me:
 🔭 I’m currently working on gamesCave project<br>
 👯 I’m looking to collaborate on new Django Rest Framework project - ShopApp<br>
-🌱 I’m currently learning Django Rest Framework, Redis, Celery and Docker<br>
+🌱 I’m currently learning Django Rest Framework, Redis, Celery, JS and Docker<br>
 💬 Ask me about anything you want, I am kind a talkative person :)<br>
 
 
